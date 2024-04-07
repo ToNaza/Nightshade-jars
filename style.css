@@ -6,7 +6,6 @@
 
 body{
     background-color: DCFFAF;
-    min-height: 50vh;
 }
 
 header{
@@ -362,5 +361,7 @@ margin-top: 100px;
                     height:25px ;
                     border-radius: 7px;
                     margin-top: 10px;
+                    margin-left: 3x;
+                    margin-right: 3px;
                 }
         
