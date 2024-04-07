@@ -6,11 +6,12 @@
 
 body{
     background-color: DCFFAF;
+    min-height: 50vh;
 }
 
 header{
     background-color: 6B5B5B;
-    height: 100px;
+    height: 20px;
 }
 .p1{
     color:00B2FF;
@@ -349,7 +350,17 @@ margin-top: 100px;
                     margin-left: 253px;
                     margin-top: 100px;
                 }
+
+                footer{
+                    text-align: center;
+                }
         
         
-                
+                footer button{
+                    background-color:D9D9D9;
+                    width:130px ;
+                    height:25px ;
+                    border-radius: 7px;
+                    margin-top: 10px;
+                }
         
