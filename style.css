@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: DCFFAF;
+}
+
+header{
+    background-color: 6B5B5B;
+    height: 120px;
+}
+.p1{
+    color:00B2FF;
+    font-family: 'Karantina';
+    font-size: 50px;
+    padding-top: 32px;
+    padding-left: 17px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+}
+.p2{
+color: white;
+position: absolute;
+top: 5px;
+left: 50%;
+
+}
+
+.nonstop-stalker{
+background-color: 838383;
+border-radius: 14px;
+margin-top: 20px;
+width: 400px;
+margin-left: 15px;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.images{
+    border-radius: 14px;
+}
