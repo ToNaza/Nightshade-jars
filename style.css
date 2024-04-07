@@ -155,3 +155,201 @@ margin-top: 100px;
         margin-top: 100px;
     }
 
+
+
+
+    
+
+    .nonstop-green{
+        background-color: 838383;
+        border-radius: 16px;
+        margin-top: 20px;
+        width: 350px;
+        height:126px;
+        margin-left: 15px;
+        
+        box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+        
+        display: flex;
+        }
+        
+        .info2{
+            color:00FF1A;
+            font-size: 18px;
+        
+            margin-left: 4px;
+            margin-top: 3px;
+        }
+        
+        .images2{
+            border-radius: 14px;
+            
+        }
+        
+        .infotov2{
+        color:rgb(255, 0, 0);
+        font-size: 17px;
+        position: absolute;
+        margin-left: 132px;
+        margin-top: 50px;
+        }
+        
+        .infoL2{
+            position: absolute;
+        margin-left: 132px;
+        margin-top: 80px;
+        }
+        
+        .infoVar2{
+        
+            position: absolute;
+        margin-left: 132px;
+        margin-top: 100px;
+            
+        }
+        
+        .sellgreen{
+            position: absolute;
+           color:white;
+            width: 90px;
+            padding: 2px;
+            border-radius: 6px;
+            border: 0px;
+            background-color: 6D6D6D;
+            box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+        
+            margin-left: 253px;
+            margin-top: 100px;
+        }
+
+
+        .nonstop-green{
+            background-color: 838383;
+            border-radius: 16px;
+            margin-top: 20px;
+            width: 350px;
+            height:126px;
+            margin-left: 15px;
+            
+            box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+            
+            display: flex;
+            }
+            
+            .info2{
+                color:00FF1A;
+                font-size: 18px;
+            
+                margin-left: 4px;
+                margin-top: 3px;
+            }
+            
+            .images2{
+                border-radius: 14px;
+                
+            }
+            
+            .infotov2{
+            color:rgb(255, 0, 0);
+            font-size: 17px;
+            position: absolute;
+            margin-left: 132px;
+            margin-top: 50px;
+            }
+            
+            .infoL2{
+                position: absolute;
+            margin-left: 132px;
+            margin-top: 80px;
+            }
+            
+            .infoVar2{
+            
+                position: absolute;
+            margin-left: 132px;
+            margin-top: 100px;
+                
+            }
+            
+            .sell{
+                position: absolute;
+               color:white;
+                width: 90px;
+                padding: 2px;
+                border-radius: 6px;
+                border: 0px;
+                background-color: 6D6D6D;
+                box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+            
+                margin-left: 253px;
+                margin-top: 100px;
+            }
+    
+    
+            
+    
+            .nonstop-purple{
+                background-color: 838383;
+                border-radius: 16px;
+                margin-top: 20px;
+                width: 350px;
+                height:126px;
+                margin-left: 15px;
+                
+                box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+                
+                display: flex;
+                }
+                
+                .info3{
+                    color:00FF1A;
+                    font-size: 18px;
+                
+                    margin-left: 4px;
+                    margin-top: 3px;
+                }
+                
+                .images3{
+                    border-radius: 14px;
+                    
+                }
+                
+                .infotov3{
+                color:rgb(255, 0, 0);
+                font-size: 17px;
+                position: absolute;
+                margin-left: 132px;
+                margin-top: 50px;
+                }
+                
+                .infoL3{
+                    position: absolute;
+                margin-left: 132px;
+                margin-top: 80px;
+                }
+                
+                .infoVar3{
+                
+                    position: absolute;
+                margin-left: 132px;
+                margin-top: 100px;
+                    
+                }
+                
+                .sellpurple{
+                    position: absolute;
+                   color:white;
+                    width: 90px;
+                    padding: 2px;
+                    border-radius: 6px;
+                    border: 0px;
+                    background-color: 6D6D6D;
+                    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+                
+                    margin-left: 253px;
+                    margin-top: 100px;
+                }
+        
+        
+                
+        
