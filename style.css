@@ -50,6 +50,7 @@ display: flex;
 
 .images{
     border-radius: 14px;
+    position: absolute;
 }
 
 .infotov{
